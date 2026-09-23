@@ -3,7 +3,7 @@
 A simple digital business card built with HTML and CSS.
 
 ## Files
-- `business-card.html` – main page
+- `index.html` – main page
 - `styles.css` – styling
 - `images/` – assets used in the card
 

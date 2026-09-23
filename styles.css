@@ -1,0 +1,26 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pp{
+    width: 150px;
+
+}
+
+.card{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    /* margin: 0px auto 0px auto; */
+    margin: 0px auto;
+    text-align: center;
+    color: #04151f;
+    background-color: #efd6ac;
+    /* border: 0px 7px 7px 0px solid #c44900; */
+    border-right: 7px solid #c44900;
+    border-bottom: 7px solid #c44900;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px #183a37;
+}
